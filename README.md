@@ -1,6 +1,10 @@
 # Machine Learning Demystified
 ## A 3-hour hands-on workshop by Adam Eivy and Jason Lewis
 
+**Important Configuration Note:** All notebooks in this workshop use `%matplotlib inline` for static plot rendering in Jupyter notebooks to ensure compatibility across different environments.
+
+**Data Source:** The correct data source for the Ames Housing dataset used in the notebooks is: `https://jse.amstat.org/v19n3/decock/AmesHousing.txt`
+
 Whether you are a seasoned data scientist, a software engineer, or a novice, this workshop will guide you through the foundations you need to get up and running with machine learning effortlessly using Jupyter Notebooks and Python (no specific experience required). We will demystify terms, clustering, linear regression, & play with a neural network.
 
 **Goal: Getting individuals comfortable with the foundations of Machine Learning (ML) and playing with practical applications**
