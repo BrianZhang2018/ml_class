@@ -4,3 +4,5 @@
 .jupyter
 AmesHousing*
 .cache
+.npm/
+.wget-hsts
